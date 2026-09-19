@@ -1394,7 +1394,7 @@ function HomePage() {
 
       {/* Footer — flows with content, at the very end */}
       <div className="mt-auto pt-12 pb-4 text-center text-xs text-muted-foreground/40">
-        探秘科学屋 · 基于清华大学 THU-MAIC 团队 OpenMAIC 开源项目二次开发
+        科学探索屋 · 基于清华大学 THU-MAIC 团队 OpenMAIC 开源项目二次开发
       </div>
     </div>
   );
